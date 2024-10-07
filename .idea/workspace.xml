@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="364962f5-c332-4715-a412-15695248b0cb" name="Changes" comment="init">
+    <list default="true" id="364962f5-c332-4715-a412-15695248b0cb" name="Changes" comment="statics">
+      <change beforePath="$PROJECT_DIR$/.idea/djangoREST.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/djangoREST.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoREST/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoREST/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoREST/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoREST/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,18 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "M-akishi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;M-akishi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/M-akishi/djangoREST.git",
-    "accountId": "33594f57-42d5-4691-b7d2-27fb904d8f67"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/M-akishi/djangoREST.git&quot;,
+    &quot;accountId&quot;: &quot;33594f57-42d5-4691-b7d2-27fb904d8f67&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -39,6 +42,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Database detector": "Database detector",
+    "Notification.DoNotAsk-Database detector": "true",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -93,7 +98,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728232664188</updated>
-      <workItem from="1728232685243" duration="6377000" />
+      <workItem from="1728232685243" duration="7929000" />
+      <workItem from="1728265023397" duration="344000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -151,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728252992366</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="statics">
+      <option name="closed" value="true" />
+      <created>1728253498220</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728253498220</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="statics" />
+    <option name="LAST_COMMIT_MESSAGE" value="statics" />
   </component>
 </project>
